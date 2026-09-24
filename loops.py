@@ -271,4 +271,4 @@ fru = []
 for _ in range(len(fruits)-1,-1,-1):
     fru.append(fruits[_])
 print(fru)    
-    
+
